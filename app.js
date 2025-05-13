@@ -5,7 +5,7 @@ let searchbtn = document.querySelector(".searchbtn")
 let card = document.querySelector(".profilecard")
 
 let repo_card = document.querySelector(".card-repo")
-let repo_view = document.querySelector(".repo-view")
+let repo_view = document.querySelector(".repo_view")
 
 
 
